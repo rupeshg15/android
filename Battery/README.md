@@ -1,0 +1,1 @@
+# Develop an android application to show Realtime Battery Level on the Progress Bar using Broadcast Receiver
